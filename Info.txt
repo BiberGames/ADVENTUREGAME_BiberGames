@@ -1,0 +1,15 @@
+Willkommen im BiberGames Launcher!
+=========================================
+Auf dieser Seite werden Neuerungen angezeigt und Events angekündigt.
+Der Quellcode wird noch veröffentlicht.
+Alle Spiele werden kostenlos angeboten.
+
+
+
+Update 0.0.7:
+=========================================
++ bessere lichteffekte
+
+Update 0.0.6:
+=========================================
++ Minimap
