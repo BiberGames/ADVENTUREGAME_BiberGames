@@ -5,6 +5,13 @@ Der Quellcode wird noch veröffentlicht.
 Alle Spiele werden kostenlos angeboten.
 
 
+(Update 0.0.8)
+(=========================================)
+(+ platzhalter für hotbar leben und hunger)
+(+ großere minimat (M))
+(+ versteckte hilfe (H))
+(+ biome (tafelberge, wüste))
+(+ Multiplayer)
 
 Update 0.0.7:
 =========================================
