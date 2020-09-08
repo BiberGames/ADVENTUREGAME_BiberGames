@@ -4,6 +4,7 @@ Auf dieser Seite werden Neuerungen angezeigt und Events angekündigt.
 Der Quellcode wird noch veröffentlicht.
 Alle Spiele werden kostenlos angeboten.
 
+Nächstes Update:
 
 (Update 0.0.8)
 (=========================================)
