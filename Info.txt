@@ -7,7 +7,7 @@ Nächstes Update:
 
 Update 0.0.8
 =========================================
-+ platzhalter für hotbar leben und hunger
++ platzhalter für hotbar leben, hunger und mana
 + großere minimat (M)
 + versteckte hilfe (H)
 + biome (tafelberge, wüste)
