@@ -1,6 +1,8 @@
 Wir wechseln den Filehost. Downloade den Neuen Launcher, um zukünftige
 Updates zu erhalten.
 
+https://github.com/BiberGames/303/raw/master/BiberGames%20Launcher%20Installer.exe
+
 Willkommen im BiberGames Launcher!
 =========================================
 Auf dieser Seite werden Neuerungen angezeigt und Events angekündigt.
