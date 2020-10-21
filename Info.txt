@@ -8,8 +8,6 @@ Willkommen im BiberGames Launcher!
 Auf dieser Seite werden Neuerungen angezeigt und Events angekündigt.
 Alle Spiele werden kostenlos angeboten.
 
-Nächstes Update:
-
 Update 0.0.8
 =========================================
 + platzhalter für hotbar leben, hunger und mana
