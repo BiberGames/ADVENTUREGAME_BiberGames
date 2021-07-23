@@ -8,3 +8,5 @@ Update 0.0.8
 + New level selection screen
 + News tab
 + Tardis
++ Zombie AI
++ 
