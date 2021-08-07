@@ -10,3 +10,4 @@ Update 0.0.8
 + Tardis
 + Zombie AI
 + Weapon Sway
++ Explosion particles
