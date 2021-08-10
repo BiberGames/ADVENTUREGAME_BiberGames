@@ -11,4 +11,3 @@ Update 0.0.8
 + Zombie AI
 + Weapon Sway
 + Explosion particles
-+ Console
