@@ -4,11 +4,13 @@
 = Here you will find news about upcoming updates and events.
 ==============================================================
 
-Update 0.0.8
+Update 0.0.9:
++ Car / Buggy
+
+Update 0.0.8:
 + New level selection screen
 + News tab
 + Tardis
 + Zombie AI
 + Weapon Sway
 + Explosion particles
-+ Car / Buggy
