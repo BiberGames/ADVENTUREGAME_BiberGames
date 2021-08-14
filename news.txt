@@ -6,6 +6,7 @@
 
 Update 0.0.9:
 + Car / Buggy
++ Freecam (Tab key to toggel)
 
 Update 0.0.8:
 + New level selection screen
