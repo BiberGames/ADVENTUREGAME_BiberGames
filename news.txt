@@ -5,8 +5,13 @@
 ==============================================================
 
 Update 0.0.9:
-+ Car / Buggy
-+ Freecam (Tab key to toggel)
+Added:
+  + Car / Buggy
+  + Freecam (Tab key to toggel)
+  + HDRP
+
+Removed:
+  - URP
 
 Update 0.0.8:
 + New level selection screen
