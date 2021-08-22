@@ -1,8 +1,1 @@
-{
-	"Name":"TEST",
-	"Version":"001",
-	"AppID":"0",
-	"GameExecutable":"test.exe",
-	"Type":"Game",
-	"Channel":"Relase"
-}
+{"Name":"TEST","Version":"001","AppID":"0","GameExecutable":"test.exe","Type":"Game","Channel":"Relase"}
