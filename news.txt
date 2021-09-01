@@ -8,7 +8,7 @@ Update 0.0.9:
 Added:
   + Car / Buggy
   + Freecam (Tab key to toggel)
-  + HDRP
+  + Debug Screen (F3 key to toggel)
 
 Update 0.0.8:
 + New level selection screen
