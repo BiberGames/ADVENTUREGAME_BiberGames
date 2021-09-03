@@ -7,6 +7,7 @@
 Update 0.0.9:
 Added:
   + Car / Buggy
+  + KM/H Display
   + Freecam (Tab key to toggel)
   + Debug Screen (F3 key to toggel)
 
