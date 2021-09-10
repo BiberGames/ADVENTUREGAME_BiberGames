@@ -6,6 +6,7 @@
 
 Update 0.0.9:
 Added:
+  + Mouse wheel to change weapons
   + Car / Buggy
   + KM/H Display
   + Freecam (Tab key to toggel)
