@@ -4,7 +4,7 @@
 = Here you will find news about upcoming updates and events.
 ==============================================================
 
-Update 0.0.9:
+Update 0.0.9(WIP):
 Added:
   + Updated Sandbox Flat Map
   + Mouse wheel to change weapons
