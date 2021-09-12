@@ -6,6 +6,7 @@
 
 Update 0.0.9:
 Added:
+  + Updated Sandbox Flat Map
   + Mouse wheel to change weapons
   + Car / Buggy
   + KM/H Display
