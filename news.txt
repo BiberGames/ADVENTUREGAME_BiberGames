@@ -6,6 +6,7 @@
 
 Update 0.0.9(WIP):
 Added:
+  + New main menu (gta 4 style)
   + Updated Sandbox Flat Map
   + Mouse wheel to change weapons
   + Car / Buggy
