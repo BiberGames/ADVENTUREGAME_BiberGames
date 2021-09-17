@@ -4,7 +4,7 @@
 = Here you will find news about upcoming updates and events.
 ==============================================================
 
-Update 0.0.9(WIP):
+<b>Update 0.0.9(WIP):</b>
 Added:
   + Random Half Life 2 Song as Background Music in Main Menu
   + New main menu (gta 4 style)
@@ -16,7 +16,7 @@ Added:
   + Freecam (Tab key to toggel)
   + Debug Screen (F3 key to toggel)
 
-Update 0.0.8:
+<b>Update 0.0.8:</b>
 + New level selection screen
 + News tab
 + Tardis
