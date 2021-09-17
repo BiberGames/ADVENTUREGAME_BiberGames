@@ -1,6 +1,6 @@
 This is the News tab!!!
 
-<u><b>Update 0.0.9(WIP):</b></u>
+<style="Title">Update 0.0.9(WIP):</style>
 Added:
   + Random Half Life 2 Song as Background Music in Main Menu
   + New main menu (gta 4 style)
@@ -12,7 +12,7 @@ Added:
   + Freecam (Tab key to toggel)
   + Debug Screen (F3 key to toggel)
 
-<u><b>Update 0.0.8:</b></u>
+<style="Title">Update 0.0.8:</style>
 + New level selection screen
 + News tab
 + Tardis
