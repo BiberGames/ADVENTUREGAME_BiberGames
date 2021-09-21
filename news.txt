@@ -2,11 +2,11 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.0.9(WIP):</style></u>
 Added:
+  + Bigger Lake
   + The flash in the Main menu is now dark when image changes
   + Rich Text Support for the news Tab
   + Random Half Life 2 Song as Background Music in Main Menu
   + New main menu (gta 4 style)
-  + Added small island to pond in sandbox main map
   + Updated Sandbox Flat Map
   + Mouse wheel to change weapons
   + Car / Buggy
