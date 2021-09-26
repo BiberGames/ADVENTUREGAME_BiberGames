@@ -1,6 +1,6 @@
 This is the News tab!!!
 
-<u><style="Title">Update 0.0.9(WIP):</style></u>
+<u><style="Title">Update 0.0.9:</style></u>
 Added:
   + Updated Pause menu to look like Main menu
   + F-Stop Camera (Left click to photograph object, e to change slot and right click to place)
