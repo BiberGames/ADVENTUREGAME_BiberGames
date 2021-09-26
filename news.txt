@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.0.9(WIP):</style></u>
 Added:
+  + Updated Pause menu to look like Main menu
   + F-Stop Camera (Left click to photograph object, e to change slot and right click to place)
   + Bigger Lake
   + The flash in the Main menu is now dark when image changes
