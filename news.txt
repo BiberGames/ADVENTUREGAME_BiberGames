@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + Error messages when error occurs
   + Console
 
 <u><style="Title">Update 0.0.9:</style></u>
