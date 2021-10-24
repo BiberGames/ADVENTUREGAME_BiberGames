@@ -5,6 +5,7 @@ Added:
   + Lua scripting (THX TO MOONSHARP!!! PrintToConsole, SetPlayerHelth, CallNotification, GetBackgroundMusic, PlayAudioFile)
     + Main menu background music generator moved to a lua script
     + Main menu background moving images / flash moved to lua from c#
+    + GLTF Importer
   + Error messages when error occurs
   + Console
 
