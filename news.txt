@@ -28,7 +28,7 @@ Added:
   + Debug Screen (F3 key to toggel)
   
 Removed:
-  + Physgun
+  - Physgun
 
 <u><style="Title">Update 0.0.8:</style></u>
 + New level selection screen
