@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + Added Gauss Gun (Tau cannon)
   + 3rd person mode (F5 key to toggle)
   + Splash text is not stored in an external file
   + Impact sounds (Wood, Flesh, Concrete, Wood, Metal)
