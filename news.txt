@@ -2,6 +2,8 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + Added Weapon inspect animations
+  + Added Reloading
   + Added Gauss Gun (Tau cannon)
   + 3rd person mode (F5 key to toggle)
   + Splash text is not stored in an external file
