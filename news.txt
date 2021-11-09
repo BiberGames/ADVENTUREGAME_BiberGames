@@ -16,6 +16,9 @@ Added:
   + Error messages when error occurs
   + Console
 
+Removed:
+  - Rounded Corners
+
 <u><style="Title">Update 0.0.9:</style></u>
 Added:
   + Updated Pause menu to look like Main menu
