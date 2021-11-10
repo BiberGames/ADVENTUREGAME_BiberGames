@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + Screenshots (F2 to take one)
   + Added Weapon inspect animations
   + Added Reloading
   + Added Gauss Gun (Tau cannon)
