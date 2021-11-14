@@ -10,7 +10,7 @@ Added:
   + Splash text is not stored in an external file
   + Impact sounds (Wood, Flesh, Concrete, Wood, Metal)
   + 1 New Background
-  + Lua scripting (THX TO MOONSHARP!!! PrintToConsole, SetPlayerHelth, CallNotification, GetBackgroundMusic, PlayAudioFile)
+  + Lua scripting (THX TO MOONSHARP!!!)
     + Main menu background music generator moved to a lua script
     + Main menu background moving images / flash moved to lua from c#
     + GLTF Importer
