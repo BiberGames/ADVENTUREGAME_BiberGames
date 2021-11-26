@@ -2,6 +2,8 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + Left View models (to toggle cl_draw_viewmodel_side 1 (left) or 0 (right)
+  + Current screen resolution in the Debug Screen
   + Screenshots (F2 to take one)
   + Added Weapon inspect animations
   + Added Reloading
