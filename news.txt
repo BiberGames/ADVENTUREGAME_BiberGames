@@ -1,6 +1,6 @@
 This is the News tab!!!
 
-<u><style="Title">Update 0.1.0(WIP):</style></u>
+<u><style="Title">Update 0.1.0:</style></u>
 Added:
   + 1 New Splash text
   + Reactive view models (move slightly in opposite direction currently moving)
@@ -12,7 +12,7 @@ Added:
   + Added Reloading
   + Added Gauss Gun (Tau cannon)
   + 3rd person mode (F5 key to toggle)
-  + Splash text is not stored in an external file
+  + Splash text is now stored in an external file
   + Impact sounds (Wood, Flesh, Concrete, Wood, Metal)
   + 3 New Backgrounds
   + Basic Lua scripting (THX TO MOONSHARP!!!)
