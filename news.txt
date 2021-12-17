@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.0(WIP):</style></u>
 Added:
+  + 1 New Splash text
   + Reactive view models (move slightly in opposite direction currently moving)
   + Time based Splash texts (Happy new year, merry xmas...)
   + Left View models (to toggle cl_draw_viewmodel_side 1 (left) or 0 (right, normal)
