@@ -13,8 +13,8 @@ Added:
   + 3rd person mode (F5 key to toggle)
   + Splash text is not stored in an external file
   + Impact sounds (Wood, Flesh, Concrete, Wood, Metal)
-  + 2 New Backgrounds
-  + Lua scripting (THX TO MOONSHARP!!!)
+  + 3 New Backgrounds
+  + Basic Lua scripting (THX TO MOONSHARP!!!)
     + Main menu background music generator moved to a lua script
     + Main menu background moving images / flash moved to lua from c#
     + GLTF Importer
