@@ -57,3 +57,13 @@ Removed:
 + Zombie AI
 + Weapon Sway
 + Explosion particles
+
+<u><style="Title">Old Versions:</style></u>
+
+<u><style="Title">Update 0.0.7:</style></u>
+
+<u><style="Title">Update 0.0.6:</style></u>
+
+<u><style="Title">Update 0.0.5:</style></u>
+
+<u><style="Title">Update 0.0.4:</style></u>
