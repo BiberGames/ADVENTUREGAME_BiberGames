@@ -2,7 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.2.0:(WIP)</style></u>
 Added:
-  + 6 New Splash text
+  + 7 New Splash text
   + Loading GLTF maps from mainmenu
   + GLTF map loader
 
