@@ -1,6 +1,6 @@
 This is the News tab!!!
 
-<u><style="Title">Update 0.2.0:(WIP)</style></u>
+<u><style="Title">Update 0.1.1:(WIP)</style></u>
 Added:
   + Button to the Sourcelike Discord
   + 8 New Splash text
