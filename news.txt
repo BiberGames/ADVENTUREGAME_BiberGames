@@ -2,6 +2,8 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.1:(WIP)</style></u>
 Added:
+  + Space Invaders in Mini Games section 
+  + Mini Games tab in map select screen
   + Button to the Sourcelike Discord
   + 8 New Splash text
   + Loading GLTF maps from mainmenu
