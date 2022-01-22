@@ -2,6 +2,7 @@ This is the News tab!!!
 
 <u><style="Title">Update 0.1.1:(WIP)</style></u>
 Added:
+  + 2D Minecraft in Mini Games section 
   + Space Invaders in Mini Games section 
   + Mini Games tab in map select screen
   + Button to the Sourcelike Discord
