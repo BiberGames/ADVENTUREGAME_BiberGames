@@ -3,6 +3,7 @@ This is the News tab!!!
 <u><style="Title">Update 0.1.1:(WIP)</style></u>
 Added:
   + build in Gameboy emulator
+  + teleport / setpos / tp command
   + Rickroll
   + rebalanced damage and health to be more like Half life 2
   + 2D Minecraft in Mini Games section 
