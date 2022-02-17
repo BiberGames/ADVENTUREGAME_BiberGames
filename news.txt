@@ -1,5 +1,7 @@
 This is the News tab!!!
 
+MOVED TO: https://raw.githubusercontent.com/BiberGames/sourcelike/main/changelog.txt
+
 <u><style="Title">Update 0.1.1:(WIP)</style></u>
 Added:
   + build in Gameboy emulator
@@ -64,7 +66,7 @@ Removed:
 <u><style="Title">Update 0.0.8:</style></u>
 + New level selection screen
 + News tab
-+ Tardis
++ Tardis background image
 + Zombie AI
 + Weapon Sway
 + Explosion particles
